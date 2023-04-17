@@ -1,5 +1,3 @@
-# Anything-v3.0_ipynb
-
 # AI 繪圖, 南華大學
 
 
